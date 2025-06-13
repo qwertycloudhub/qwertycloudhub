@@ -1,1 +1,1 @@
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=qwertycloudhub)](https://github.com/qwertycloudhub/github-readme-stats#gh-dark-mode-only)
+[![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=qwertycloudhub&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/qwertycloudhub/github-readme-stats#gh-dark-mode-only)
